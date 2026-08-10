@@ -46,7 +46,7 @@ const products =[
     {
         category: 'laptops',
     image:
-      'https://images.unsplash.com/photo-1541807084-5c52b6b3adef?w=300&h=200&fit=crop',
+      'https://images.unsplash.com/photo-1588872657578-7efd1f1555ed?w=300&h=200&fit=crop',
     alt: 'Dell XPS 13 Intel i7 16GB SSD 512GB',
     title: 'Dell XPS 13 Intel i7 16GB SSD 512GB',
     price: 'R$ 6.999,00',
@@ -59,6 +59,7 @@ const products =[
 
     {
     category: 'tablets',
+    image: 'https://images.unsplash.com/photo-1661595676830-2a0a1ccab283?w=300&h=200&fit=crop',
     alt: 'Samsung Galaxy Tab S9+ 256GB',
     title: 'Samsung Galaxy Tab S9+ 256GB',
     price: 'R$ 4.999,00',
@@ -71,6 +72,7 @@ const products =[
 
     {
     category: 'tablets',
+    image: 'https://images.unsplash.com/photo-1623126908029-58cb08a2b272?w=300&h=200&fit=crop',
     alt: 'iPad Pro 12.9" M2 WiFi 128GB',
     title: 'iPad Pro 12.9" M2 WiFi 128GB',
     price: 'R$ 7.299,00',
@@ -83,6 +85,7 @@ const products =[
 
     {
     category: 'acessórios',
+    image: 'https://images.unsplash.com/photo-1572569511254-d8f925fe2cbb?w=300&h=200&fit=crop',
     alt: 'Apple AirPods Pro 2ª Geração',
     title: 'Apple AirPods Pro 2ª Geração',
     price: 'R$ 2.399,00',
@@ -95,6 +98,7 @@ const products =[
 
     {
     category: 'acessórios',
+    image: 'https://images.unsplash.com/photo-1579586337278-3befd40fd17a?w=300&h=200&fit=crop',
     alt: 'Apple Watch Series 9 GPS 45mm',
     title: 'Apple Watch Series 9 GPS 45mm',
     price: 'R$ 4.299,00',
@@ -107,6 +111,7 @@ const products =[
 
     {
     category: 'acessorios',
+    image: 'https://images.unsplash.com/photo-1583863788434-e58a36330cf0?w=300&h=200&fit=crop',
     placeholder: '🔌 Carregador',
     title: 'Carregador Sem Fio MagSafe 15W',
     price: 'R$ 399,00',
@@ -119,6 +124,7 @@ const products =[
 
   {
     category: 'smartphones',
+    image: 'https://images.unsplash.com/photo-1621330396167-b3d451b9b83b?w=300&h=200&fit=crop',
     placeholder: '📱 Xiaomi',
     title: 'Xiaomi 13 Pro 256GB Leica',
     price: 'R$ 3.999,00',
